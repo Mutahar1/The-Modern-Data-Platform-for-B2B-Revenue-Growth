@@ -1,4 +1,4 @@
-# TwentyHQ — The Modern Data Platform for B2B Revenue Growth
+# TwentyHQ The Modern Data Platform for B2B Revenue Growth
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/twentyhq/twenty/ci.yml?branch=main&style=flat-square)](https://github.com/twentyhq/twenty/actions)
 [![License](https://img.shields.io/github/license/twentyhq/twenty?style=flat-square)](https://github.com/twentyhq/twenty/blob/main/LICENSE)
