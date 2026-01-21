@@ -56,13 +56,29 @@ By leveraging TwentyHQ, businesses have achieved:
 
 TwentyHQ’s modern architecture is designed for scale and reliability:
 
-- **Data Ingestion Layer:** Aggregates data from multiple internal and external sources including CRMs and marketing platforms.  
-- **Processing & Enrichment Layer:** Automated pipelines cleanse, de-duplicate, and enrich records continuously.  
-- **Data Storage Layer:** Cloud-native, scalable warehouse to hold structured and semi-structured datasets.  
-- **API & Integration Layer:** Secure APIs expose data and functionality for downstream tools and applications.  
+- **Data Ingestion Layer:** Aggregates data from multiple internal and external sources including CRMs and marketing platforms.
+  ![image alt](https://github.com/Mutahar1/The-Modern-Data-Platform-for-B2B-Revenue-Growth/blob/a1c3d82d93c673ec42562a368b884a0c53f4e217/views-light.png)
+  
+- **Processing & Enrichment Layer:** Automated pipelines cleanse, de-duplicate, and enrich records continuously.
+
+![image alt](https://github.com/Mutahar1/The-Modern-Data-Platform-for-B2B-Revenue-Growth/blob/a1c3d82d93c673ec42562a368b884a0c53f4e217/data-model-light.png)
+
+
+- **Data Storage Layer:** Cloud-native, scalable warehouse to hold structured and semi-structured datasets.
+![image alt](https://github.com/Mutahar1/The-Modern-Data-Platform-for-B2B-Revenue-Growth/blob/a1c3d82d93c673ec42562a368b884a0c53f4e217/plus-other-features-light.png)
+
+- **API & Integration Layer:** Secure APIs expose data and functionality for downstream tools and applications.
+![image alt](https://github.com/Mutahar1/The-Modern-Data-Platform-for-B2B-Revenue-Growth/blob/a1c3d82d93c673ec42562a368b884a0c53f4e217/permissions-light.png)
+
+  
 - **Frontend Layer:** React-based web UI offering dashboards, segmentation tools, and data management features.  
 
+![image alt](https://github.com/Mutahar1/The-Modern-Data-Platform-for-B2B-Revenue-Growth/blob/a1c3d82d93c673ec42562a368b884a0c53f4e217/workflows-light.png)
+
+
 ---
+
+
 
 ## Technology Stack
 
